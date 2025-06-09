@@ -40,6 +40,8 @@ Patch22:        CVE-2025-23131.patch
 Patch23:        CVE-2025-23137.patch
 Patch24:        CVE-2025-37746.patch
 Patch25:        CVE-2025-37746-1.patch
+Patch26:        CVE-2025-37906.patch
+Patch27:        CVE-2025-37984.patch
 
 
 %global security_hardening none
